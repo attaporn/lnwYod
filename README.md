@@ -10,7 +10,7 @@
 ### วิธีติดตั้ง
 
 ```sh
-pip install loongpom
+pip install lnwYod
 ```
 วิธีใช้ก็ง่ายมาก
 - เปิด Python แล้วพิพม์ตามนี้เลย
